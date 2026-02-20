@@ -15,7 +15,9 @@ Projektovanje i implementacija PCB pločice
 
 **Alati**: KiCad
 
-**PCB** pločica | Implementacija pločice U robota
+**MCU**: STM32F401CCU6 Blackpill
+
+PCB pločica | Implementacija pločice u SIMA robota
 
 
 <img width="331" height="332" alt="Screenshot_9" src="https://github.com/user-attachments/assets/bb5150cc-6fcd-4461-94a5-9d4e3f45aafe" />
